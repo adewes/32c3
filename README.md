@@ -4,4 +4,4 @@ Please be patient, I'll clean and document the iPython notebooks and will upload
 
 ## Slides
 
-Are available on Slideshare: https://www.slideshare.com/japh44
+Are available on Slideshare: http://www.slideshare.net/japh44
